@@ -1,0 +1,8 @@
+*.o
+/boundary_fill
+/scanline_fill
+/jordan_fill
+*.zip
+*.odt
+*.docx
+.vscode/
